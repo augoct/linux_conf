@@ -1,6 +1,6 @@
 
 # telnet
-* echo > /dev/tcp/<ip>/<port>
+* echo > /dev/tcp/$ip/$port
   
 # nc
 * server: nc -l 9999 < id_rsa
